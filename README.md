@@ -22,9 +22,9 @@ const highAndLow = (string) => {
 ```
 
 Obs:
-    - A string poderá conter qualquer tamanho
-    - A saída da função deverá ser uma string com os dois números, o maior e o menor separados por espaço
-    - A string sempre conterá pelo menos um número
+- A string poderá conter qualquer tamanho
+- A saída da função deverá ser uma string com os dois números, o maior e o menor separados por espaço
+- A string sempre conterá pelo menos um número
 
 
 
